@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sachiii23
-- 👀 I’m interested in Mobile Development and Design.
-- 🌱 I’m currently learning Kotlin and Java
+- 👀 I’m interested in Web Development and Design.
+- 🌱 I’m currently learning React and JavaScript
 - 📫 How to reach me (LinkedIn : Erlangga Dafa Pratama, WhatsApp : 081276438059)
 
 <!---
